@@ -82,7 +82,7 @@
 #    define DRIVER_ADDR_1 0b1010000
 #    define DRIVER_ADDR_2 0b1011111
 #    define DRIVER_COUNT 2
-#    define DRIVER_1_LED_TOTAL 48
+#    define DRIVER_1_LED_TOTAL 49
 #    define DRIVER_2_LED_TOTAL 22
 #    define RGB_MATRIX_LED_COUNT (DRIVER_1_LED_TOTAL + DRIVER_2_LED_TOTAL)
 #endif

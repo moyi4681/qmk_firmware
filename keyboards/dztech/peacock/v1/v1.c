@@ -79,6 +79,7 @@ const is31_led PROGMEM g_is31_leds[RGB_MATRIX_LED_COUNT] = {
     { 0, H_2,  G_2,  I_2 },
     { 0, H_1,  G_1,  I_1 },
     { 0, K_9,  J_9,  L_9 },
+    { 0, K_8,  J_8,  L_8 },
     { 1, H_9,  G_9,  I_9 },
     { 0, K_12, J_12, L_12 },
     { 0, K_11, J_11, L_11 },
